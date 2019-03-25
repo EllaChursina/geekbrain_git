@@ -1,4 +1,4 @@
-print("Hello_world")
-print("Hello_everybody")
-print("Hello_cat")
-print("Hello_hui")
+print("Hello_world;")
+print("Hello_everybody;")
+print("Hello_cat;")
+print("Hello_hui;")

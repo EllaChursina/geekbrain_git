@@ -1,0 +1,16 @@
+PODS:
+  - JKBigInteger (0.0.1)
+
+DEPENDENCIES:
+  - JKBigInteger (~> 0.0.1)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - JKBigInteger
+
+SPEC CHECKSUMS:
+  JKBigInteger: 7f3894ca331bf271a8e2ee0d5329707ca6eda6e0
+
+PODFILE CHECKSUM: 0bd904dca9a9fb24373f80cd1644d577bd134c38
+
+COCOAPODS: 1.6.1
